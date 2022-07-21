@@ -1,6 +1,6 @@
 # crypto_prices
 
-Objective: Build a simple program to load multiple CSV files using Python to a Postgres database. 
+Objective: Build a simple program to load multiple CSV files using Python to a Postgres database. Application will execute locally in docker environment.
 
 
 Target Table Structure:
